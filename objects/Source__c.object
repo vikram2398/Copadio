@@ -4,8 +4,6 @@
         <actionName>Accept</actionName>
         <type>Default</type>
     </actionOverrides>
-	
-	
     <actionOverrides>
         <actionName>Accept</actionName>
         <formFactor>Large</formFactor>
@@ -164,14 +162,4 @@
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
-    <fields>
-        <fullName>Currency__c</fullName>
-        <externalId>false</externalId>
-        <label>Currency</label>
-        <precision>18</precision>
-        <required>false</required>
-        <scale>0</scale>
-        <trackTrending>false</trackTrending>
-        <type>Currency</type>
-    </fields>
 </CustomObject>
