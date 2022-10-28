@@ -165,13 +165,13 @@
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
     <fields>
-        <fullName>Name__c</fullName>
+        <fullName>Currency__c</fullName>
         <externalId>false</externalId>
-        <label>Name</label>
-        <length>10</length>
+        <label>Currency</label>
+        <precision>18</precision>
         <required>false</required>
+        <scale>0</scale>
         <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
+        <type>Currency</type>
     </fields>
 </CustomObject>
